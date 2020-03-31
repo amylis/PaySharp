@@ -80,11 +80,6 @@ PaySharp.Allinpay	| [![NuGet](https://img.shields.io/nuget/v/PaySharp.Allinpay.s
 
 见[Demo](https://github.com/Varorbc/PaySharp/tree/master/sample/PaySharp.Demo)
 
-# 交流讨论
----
-
-[![加入QQ群](http://pub.idqqimg.com/wpa/images/group.png)](http://shang.qq.com/wpa/qunwpa?idkey=5d2538328d53d0610188d9dc4a62a7b51e50fe56ad1b35ca9e96308507eb09a7)
-
 # Wiki
 ---
 
